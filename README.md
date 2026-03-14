@@ -1,4 +1,4 @@
-# Tiered-Spells
+# Tiered-Spell-Extractor
 
 Tiered Spell Extraction for Wizard101.
 
