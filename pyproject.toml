@@ -1,0 +1,9 @@
+[project]
+name = "tiered-spell-extractor"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "katsuba>=0.4.0",
+]

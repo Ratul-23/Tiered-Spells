@@ -5,7 +5,7 @@ from katsuba import KatsubaError
 from katsuba.op import TypeList, SerializerOptions, Serializer, LazyList, LazyObject, STATEFUL_FLAGS # type: ignore
 from katsuba.wad import Archive # type: ignore
 
-from SpellData import SpellData
+from spell_data import SpellData
 
 
 class Deserializer:

@@ -1,6 +1,6 @@
 from typing import Optional
 
-from TieredSpell import TieredSpell
+from tiered_spell import TieredSpell
 
 
 class Spell:
