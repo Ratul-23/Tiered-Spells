@@ -76,5 +76,5 @@ Results are exported to `Tiered-Spells.json`. Each entry represents a spell with
 ## Usage
 
 ```
-python main.py
+uv run main.py
 ```
